@@ -1,16 +1,5 @@
 # PisoH-Masculino
 
-¿Quién está hablando, Gero o Sofi? Así ajusto mejor el enfoque.
-
-Mientras tanto, acá va lo que pediste.
-
----
-
-## README propuesto (`README.md`)
-
-````markdown
-# Spa Masculino – Plataforma de Agendado de Servicios
-
 Plataforma web para la gestión de turnos de un spa masculino orientado a servicios como depilación definitiva, manicure, pedicure y masajes.  
 El objetivo del proyecto es ofrecer una experiencia de reserva clara, sobria y profesional, tanto para clientes como para administradores del negocio.
 
